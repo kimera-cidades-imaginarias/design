@@ -1,0 +1,113 @@
+Report created: 
+	23/09/2014	08:55:32
+
+Project name: video2.aep
+
+Source files collected to: 
+	F:\driade_2\video2 folder
+
+Source files collected: All
+
+Collected comps:  
+	Comp 1
+	cidade
+	meninos
+	templo
+	entrando
+	altar
+	soro
+	atack
+	atack
+	queda
+	defes
+	quebrando gelo
+	salto
+	saindo
+	entregando
+	cavaerna
+	tempo_cuplula
+	altar_templo
+	comemoração
+	mao
+	mao_1
+	ceyts
+	
+Number of collected files:  51
+
+Size of collected files:  165 MB
+
+Collected source files: 
+	C:\Users\Cliente\Desktop\Comp 1.flv
+	F:\moovi\video2 folder\(Footage)\12.png
+	F:\moovi\video2 folder\(Footage)\3231.png
+	F:\moovi\video2 folder\(Footage)\8.psd
+	F:\moovi\video2 folder\(Footage)\atack_.png
+	F:\moovi\video2 folder\(Footage)\cena_10.png
+	F:\moovi\video2 folder\(Footage)\cena_10_owq1.png
+	F:\moovi\video2 folder\(Footage)\cena_8_ templo.png
+	F:\moovi\video2 folder\(Footage)\cena_8_ templo_1.png
+	F:\moovi\video2 folder\(Footage)\CENARIO3.png
+	F:\moovi\video2 folder\(Footage)\cetus.png
+	F:\moovi\video2 folder\(Footage)\cetus_congelado.png
+	F:\moovi\video2 folder\(Footage)\corredor.psd
+	F:\moovi\video2 folder\(Footage)\corredor_1.psd
+	F:\moovi\video2 folder\(Footage)\correndo.png
+	F:\moovi\video2 folder\(Footage)\correndo2.png
+	F:\moovi\video2 folder\(Footage)\correndo2.psd
+	F:\moovi\video2 folder\(Footage)\dano.png
+	F:\moovi\video2 folder\(Footage)\dano_1.png
+	F:\moovi\video2 folder\(Footage)\digitalizar0195.png
+	F:\moovi\video2 folder\(Footage)\digitalizar0197.psd
+	F:\moovi\video2 folder\(Footage)\dragon.png
+	F:\moovi\video2 folder\(Footage)\ESCADA.jpg
+	F:\moovi\video2 folder\(Footage)\expoc.png
+	F:\moovi\video2 folder\(Footage)\final1112.png
+	F:\moovi\video2 folder\(Footage)\final2.png
+	F:\moovi\video2 folder\(Footage)\fnda1.psd
+	F:\moovi\video2 folder\(Footage)\fundo2.png
+	F:\moovi\video2 folder\(Footage)\gelo.psd
+	F:\moovi\video2 folder\(Footage)\gelo2.png
+	F:\moovi\video2 folder\(Footage)\menina_cena2.png
+	F:\moovi\video2 folder\(Footage)\menina_cena5.png
+	F:\moovi\video2 folder\(Footage)\menina_cena5_1.png
+	F:\moovi\video2 folder\(Footage)\menina_cena61.png
+	F:\moovi\video2 folder\(Footage)\menina_cena612.png
+	F:\moovi\video2 folder\(Footage)\menino_cena2.png
+	F:\moovi\video2 folder\(Footage)\menino_cena51.png
+	F:\moovi\video2 folder\(Footage)\menino_cena51_1.png
+	F:\moovi\video2 folder\(Footage)\menino_cena61.png
+	F:\moovi\video2 folder\(Footage)\menino_cena62.png
+	F:\moovi\video2 folder\(Footage)\mwninos.png
+	F:\moovi\video2 folder\(Footage)\queda.png
+	F:\moovi\video2 folder\(Footage)\saidndo.png
+	F:\moovi\video2 folder\(Footage)\salto.png
+	F:\moovi\video2 folder\(Footage)\sax.png
+	F:\moovi\video2 folder\(Footage)\soro.png
+	F:\moovi\video2 folder\(Footage)\splash.png
+	F:\moovi\video2 folder\(Footage)\templo.png
+	F:\moovi\video2 folder\(Footage)\water.png
+	F:\moovi\video2 folder\(Footage)\wave.png
+	F:\moovi\video2 folder\(Footage)\zzz1.png
+	
+Number of missing items:  1
+
+Rendering plug-ins:
+	Advanced 3D
+	
+Effects used:  7
+
+Effect:  CC Bubbles
+	
+Effect:  CC Radial Blur
+	
+Effect:  CC RepeTile
+	
+Effect:  CC Vector Blur
+	
+Effect:  Hue/Saturation
+	
+Effect:  Puppet
+	
+Effect:  Wave Warp
+	
+

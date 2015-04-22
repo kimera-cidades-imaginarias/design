@@ -1,0 +1,89 @@
+Report created: 
+	23/09/2014	09:03:12
+
+Project name: v5.aep
+
+Source files collected to: 
+	F:\_3\v5 folder
+
+Source files collected: All
+
+Collected comps:  
+	Comp 1
+	1Sobrevoa
+	2avista
+	3corrida
+	portao
+	4marmoreestatua
+	6pedra
+	8
+	9_pedra afundando no marmore
+	10_close_kimera
+	11_marmore caindo
+	12kimerasurge
+	13
+	Comp 2
+	14_cuspindofogo
+	14destruindo cidade
+	15cena
+	16
+	17
+	final
+	petrificado
+	
+Number of collected files:  28
+
+Size of collected files:  46,3 MB
+
+Collected source files: 
+	C:\Users\Cliente\Desktop\23131.png
+	C:\Users\Cliente\Desktop\231312123.png
+	C:\Users\Cliente\Desktop\mao1.png
+	C:\Users\Cliente\Desktop\mao2.png
+	H:\video_5\v5 folder\(Footage)\1212.png
+	H:\video_5\v5 folder\(Footage)\13123.png
+	H:\video_5\v5 folder\(Footage)\ceu.png
+	H:\video_5\v5 folder\(Footage)\cuspe_fogo.png
+	H:\video_5\v5 folder\(Footage)\dsadsa.png
+	H:\video_5\v5 folder\(Footage)\icon19.psd
+	H:\video_5\v5 folder\(Footage)\parede.png
+	H:\video_5\v5 folder\(Footage)\qw.png
+	H:\video_5\v5 folder\(Footage)\raio.png
+	H:\video_5\v5 folder\(Footage)\re1.png
+	H:\video_5\v5 folder\(Footage)\re10.jpg
+	H:\video_5\v5 folder\(Footage)\re2.png
+	H:\video_5\v5 folder\(Footage)\re212.png
+	H:\video_5\v5 folder\(Footage)\re231.png
+	H:\video_5\v5 folder\(Footage)\re3.psd
+	H:\video_5\v5 folder\(Footage)\re4232.png
+	H:\video_5\v5 folder\(Footage)\re6.psd
+	H:\video_5\v5 folder\(Footage)\re7.psd
+	H:\video_5\v5 folder\(Footage)\re8.png
+	H:\video_5\v5 folder\(Footage)\re81.png
+	H:\video_5\v5 folder\(Footage)\reikimera.png
+	H:\video_ultimo\video2 folder\(Footage)\correndo.png
+	H:\video_ultimo\video2 folder\(Footage)\correndo2.psd
+	H:\video_ultimo\video2 folder\(Footage)\splash.png
+	
+Rendering plug-ins:
+	Advanced 3D
+	
+Effects used:  8
+
+Effect:  CC Radial Blur
+	
+Effect:  CC RepeTile
+	
+Effect:  Fast Blur
+	
+Effect:  Fractal Noise
+	
+Effect:  Gaussian Blur
+	
+Effect:  Hue/Saturation
+	
+Effect:  Levels
+	
+Effect:  Tritone
+	
+

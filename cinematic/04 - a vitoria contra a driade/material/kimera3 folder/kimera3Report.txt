@@ -1,0 +1,136 @@
+Report created: 
+	23/09/2014	08:43:46
+
+Project name: kimera4.aep
+
+Source files collected to: 
+	F:\kimera_1\kimera4 folder
+
+Source files collected: All
+
+Collected comps:  
+	Comp 1
+	cidade
+	cena_2_fuga
+	cena_3_palacio
+	cena_4_escadaria
+	cena_5_coredor
+	cena_6_adimaração
+	cena_7_templo
+	cena_8_olhos entre si
+	cena_9_closed
+	cena_7_2
+	cena10_mãis
+	cena_11_fumaça
+	cena_12
+	cena_13_salto
+	cena_14_corrida
+	cena_15_luta
+	cena_16
+	cena_17
+	cena_19
+	cena_18_petrificação
+	cena_20_comemoração
+	Cena_21
+	cena15-5
+	
+Number of collected files:  62
+
+Size of collected files:  123 MB
+
+Collected source files: 
+	H:\kimera\arquivos_finalizado\_final3.png
+	H:\kimera\arquivos_finalizado\AMAARRANDO2.png
+	H:\kimera\arquivos_finalizado\ARREBENTO.png
+	H:\kimera\arquivos_finalizado\ARREBENTO111.png
+	H:\kimera\arquivos_finalizado\atack2.png
+	H:\kimera\arquivos_finalizado\rosto_1.png
+	H:\kimera\arquivos_finalizado\rosto_2.png
+	H:\kimera\arquivos_finalizado\SOPRO2.png
+	H:\kimera\cena_saindo2.png
+	H:\kimera\fechado\kimera_final\(Footage)\34294u23.png
+	H:\kimera\fechado\kimera_final\(Footage)\cena2\CENARIqqq.png
+	H:\kimera\fechado\kimera_final\(Footage)\cena2\DRIAD2E.png
+	H:\kimera\fechado\kimera_final\(Footage)\cena2\menina2.png
+	H:\kimera\fechado\kimera_final\(Footage)\cena2\menino1.png
+	H:\kimera\fechado\kimera_final\(Footage)\cena3\2.png
+	H:\kimera\fechado\kimera_final\(Footage)\cena3\cena3_cenario_up3.png
+	H:\kimera\fechado\kimera_final\(Footage)\cena3\menino_cena2.png
+	H:\kimera\fechado\kimera_final\(Footage)\cena4\cena_4_ escadaria.png
+	H:\kimera\fechado\kimera_final\(Footage)\cena4\correndo2.png
+	H:\kimera\fechado\kimera_final\(Footage)\cena4\correndo2.psd
+	H:\kimera\fechado\kimera_final\(Footage)\cena4\ESCADA.jpg
+	H:\kimera\fechado\kimera_final\(Footage)\cena5\corredor.psd
+	H:\kimera\fechado\kimera_final\(Footage)\cena5\menina_cena3.png
+	H:\kimera\fechado\kimera_final\(Footage)\cena5\menino_cena3.png
+	H:\kimera\fechado\kimera_final\(Footage)\cena6\menina_cena42.png
+	H:\kimera\fechado\kimera_final\(Footage)\cena6\menino_cena42.png
+	H:\kimera\fechado\kimera_final\(Footage)\cena7\menina_cena5.png
+	H:\kimera\fechado\kimera_final\(Footage)\cena7\menino_cena51.png
+	H:\kimera\fechado\kimera_final\(Footage)\cena7\templo.png
+	H:\kimera\fechado\kimera_final\(Footage)\cena8\cena_8_ templo.png
+	H:\kimera\fechado\kimera_final\(Footage)\cena8\menina_cena612.png
+	H:\kimera\fechado\kimera_final\(Footage)\cena8\menino_cena62.png
+	H:\kimera\fechado\kimera_final\(Footage)\cena_10_mãos\cena_10.png
+	H:\kimera\fechado\kimera_final\(Footage)\cena_10_mãos\cena_10_owq1.png
+	H:\kimera\fechado\kimera_final\(Footage)\cena_13\expoc.png
+	H:\kimera\fechado\kimera_final\(Footage)\cena_14\cena_14_saltosaida.png
+	H:\kimera\fechado\kimera_final\(Footage)\cena_15\CENARIO.png
+	H:\kimera\fechado\kimera_final\(Footage)\cena_15\luta_2.png
+	H:\kimera\fechado\kimera_final\(Footage)\cena_15\menina_cena2.png
+	H:\kimera\fechado\kimera_final\(Footage)\cena_16\cena_16_driade.png
+	H:\kimera\fechado\kimera_final\(Footage)\cena_16\cena_16_tilion.png
+	H:\kimera\fechado\kimera_final\(Footage)\cena_16\splash.png
+	H:\kimera\fechado\kimera_final\(Footage)\cena_17\cena_17aberto.png
+	H:\kimera\fechado\kimera_final\(Footage)\cena_17\cena_17fechado.png
+	H:\kimera\fechado\kimera_final\(Footage)\cena_19\cena_19.png
+	H:\kimera\fechado\kimera_final\(Footage)\cena_20\final1112.png
+	H:\kimera\fechado\kimera_final\(Footage)\cena_21_final.png
+	H:\kimera\fechado\kimera_final\(Footage)\cena_7_2\vidro.png
+	H:\kimera\fechado\kimera_final\(Footage)\cenarioa2.psd
+	H:\kimera\fechado\kimera_final\(Footage)\COR1.png
+	H:\kimera\fechado\kimera_final\(Footage)\fundo.png
+	H:\kimera\fechado\kimera_final\(Footage)\fundo4.png
+	H:\kimera\fechado\kimera_final\(Footage)\fundo_atack.png
+	H:\kimera\fechado\kimera_final\(Footage)\JOGANDO.png
+	H:\kimera\fechado\kimera_final\(Footage)\petrificada211.png
+	H:\kimera\fechado\kimera_final\(Footage)\petrificada22.png
+	H:\kimera\fechado\kimera_final\(Footage)\planta.png
+	H:\kimera\fechado\kimera_final\(Footage)\raizes.png
+	H:\kimera\fechado\kimera_final\(Footage)\SAIDA.png
+	H:\kimera\fechado\kimera_final\(Footage)\sopro_1.png
+	H:\kimera\fechado\kimera_final\Comp 1.flv
+	H:\kimera\revisado\1212.png
+	
+Number of missing items:  6
+
+Rendering plug-ins:
+	Advanced 3D
+	
+Effects used:  12
+
+Effect:  Brightness & Contrast
+	
+Effect:  CC Blobbylize
+	
+Effect:  CC Radial Blur
+	
+Effect:  CC RepeTile
+	
+Effect:  Color Balance
+	
+Effect:  Color Balance (HLS)
+	
+Effect:  Directional Blur
+	
+Effect:  Fast Blur
+	
+Effect:  Gaussian Blur
+	
+Effect:  Hue/Saturation
+	
+Effect:  Sharpen
+	
+Effect:  Twirl
+	
+
